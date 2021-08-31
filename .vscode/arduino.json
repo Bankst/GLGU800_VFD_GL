@@ -1,0 +1,6 @@
+{
+    "sketch": "vfd_gl.ino",
+    "board": "arduino:avr:mega",
+    "port": "COM8",
+    "configuration": "cpu=atmega2560"
+}
